@@ -85,6 +85,9 @@ ile gelişmiş bir shell'e geçelim
 ```
 cd root
 ```
+
+<br>
+
 ```
 ls -la
 ```
