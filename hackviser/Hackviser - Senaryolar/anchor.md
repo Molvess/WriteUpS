@@ -55,7 +55,9 @@ Bu kod satırı ile bizden istenen verilere bakıyoruz
 <img width="1357" height="585" alt="image" src="https://github.com/user-attachments/assets/8fb55c5b-3227-4657-863a-45409cd64758" />
 
 Burada dikdörtgen içine aldığım kısımdan gerekli olup olmadığını "Yes" olarak doğruladığımız 2 ayar içinde şu komutları yazıcaz ama ondan önce 2sininde ne işe yaradığını açıklıyalım
+
 RHOSTS = Burası saldıracağınız makinenin IP adresi
+
 RPORT = Burasıda saldıracağınız portu göstermekte
 
 ```
@@ -81,12 +83,12 @@ ile gelişmiş bir shell'e geçelim
 ### Böyle CTF'lerde hep root'sanız ilk root'a bakmanız gerektiğini bilin (Yoksa ben gibi 4 saat boyunca ararsınız :] )
 
 <img width="944" height="480" alt="image" src="https://github.com/user-attachments/assets/73ea2126-8f11-448d-a5c5-37446b6d5fc3" />
+<br>
+<br>
 
 ```
 cd root
 ```
-
-<br>
 
 ```
 ls -la
@@ -188,6 +190,6 @@ Ve şuan son soru için admin passwordunu soruyordu satırda gördüğünüz son
 
 <hr>
 
-# HERŞEY BU KADAR GOD'A EMANET OLUN BAŞKA CTF'LERDE GÖRÜŞMEK ÜZERE
+### HERŞEY BU KADAR GOD'A EMANET OLUN BAŞKA CTF'LERDE GÖRÜŞMEK ÜZERE
 
 <hr>
