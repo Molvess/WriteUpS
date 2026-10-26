@@ -1,0 +1,29 @@
+================================================================
+  WHOIS Sorgu Sonucu (Arşiv Kaydı)
+  Sorgu Tarihi: 2019-03-01
+================================================================
+
+Alan Adı       : secureaswise.com.tr
+Kayıt Tarihi   : 2015-06-20
+Son Güncelleme  : 2019-01-15
+Bitiş Tarihi   : 2024-06-20
+
+Kayıt Sahibi   : SecureAsWise Bilgi Teknolojileri A.Ş.
+Teknik İletişim : Ahmet Yılmaz (Kıdemli Sistem Yöneticisi)
+E-posta         : ahmet.yilmaz@secureaswise.com.tr
+Telefon         : +90 312 555 0198
+
+----------------------------------------------------------------
+  DNS TXT Kayıtları
+----------------------------------------------------------------
+secureaswise.com.tr.  IN TXT  "v=spf1 include:_spf.google.com ~all"
+secureaswise.com.tr.  IN TXT  "google-site-verification=abc123xyz"
+secureaswise.com.tr.  IN TXT  "sw-kurumsal-parola-politikasi: Tum calisanlar icin standart parola formati [AdBasHarf][Soyad][DogumYili]! seklindedir. Ornek: MDemir1985!"
+
+----------------------------------------------------------------
+  Notlar
+----------------------------------------------------------------
+- Şirket 2015 yılında Ankara'da kurulmuştur.
+- Alan adı .com.tr uzantılı olup ODTÜ tarafından tescillenmiştir.
+- Teknik iletişim kişisi aynı zamanda BT altyapı sorumlusudur.
+================================================================

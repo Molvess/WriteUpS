@@ -1,0 +1,3 @@
+## Soru Metni
+
+Aile her şeydir. Bu diziyi gerçekten çok seviyorum …
